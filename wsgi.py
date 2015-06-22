@@ -702,7 +702,7 @@ class Hello(object):
     # translate to the origin of second gear
     ctx.translate(x_g4, y_g4)
     # rotate to engage
-    ctx.rotate(-pi/2-pi/n_g4+(pi+pi/n_g3)+pi/n_g4)
+    ctx.rotate(pi/2-pi/n_g4+(pi+pi/n_g3)-n_g4-n_g3/pi)
     # put it back
     ctx.translate(-x_g4, -y_g4)
     spur.Spur(ctx).Gear(x_g4, y_g4, rp_g4, n_g4, pa, "pink")
