@@ -18,8 +18,7 @@
 <v t="2014fall.20141212095015.1774" a="E"><vh>@path ./</vh>
 <v t="2014fall.20141212095015.1775" a="E"
 expanded="2014fall.20141212095015.1777,"><vh>@file wsgi.py</vh></v>
-<v t="office.20150407074720.1"
-expanded="office.20150407074720.3,"><vh>@file gear.py</vh></v>
+<v t="office.20150407074720.1" a="E"><vh>@file gear.py</vh></v>
 <v t="2014fall.20141212095015.1780"><vh>@edit setup.py</vh></v>
 </v>
 <v t="amd.20150415215803.1" a="E"><vh>@path static/Brython3.1.1-20150328-091302/Lib/site-packages/</vh>
